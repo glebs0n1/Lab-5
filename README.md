@@ -1,5 +1,6 @@
 # Lab-5
-<h3>Java Programming 2nd semester</h3>
+Laboratory work when I was a 1st year student at the university
+<h3>Java Programming My 2nd semester started from this task 🧑🏽‍💻</h3>
 
-Console client-server desktop application.  <br>
+<h3>Console client-server desktop application.  </h3>
 lab5 - manage collection application, command line, many commands.  <br>
